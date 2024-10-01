@@ -4,10 +4,7 @@ In Pascal's triangle, each number is the sum of the two numbers directly above i
 
 class Solution(object):
     def getRow(self, rowIndex):
-        """
-        :type rowIndex: int
-        :rtype: List[int]
-        """
+       
         # if numRows==0:
         #     return []
 
